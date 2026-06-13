@@ -1,1 +1,1 @@
-# lab-10
+Laba 10, Yaroslav Panchishnyi
